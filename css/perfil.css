@@ -2,3 +2,10 @@
   text-decoration: underline;
   margin:0 auto;
 }
+
+.computer{
+  align:center;
+  padding:5px 15px;
+  margin:-10px;
+  text-transform:uppercase;
+}
